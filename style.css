@@ -628,7 +628,7 @@ span {
     z-index: -1;
     transition: .5s;
 }
-/*
+
 .footer-iconTop a:hover::before {
     width: 100%;
 }
@@ -641,7 +641,7 @@ span {
 .footer-iconTop a:hover i{
     color: var(--main-color);
 }
-*/
+
 
 
 /* BREAKPOINTS */
